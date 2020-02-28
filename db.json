@@ -1,7 +1,5 @@
 {
 "OrderRequestInfos": [
-
-],
 	{
 		"OrderRequestId": 1,
 		"OrderRequestNumber": "0001",
@@ -94,6 +92,7 @@
 		"VendorOrderNumber": "VENORD002",
 		"VendorOrderDate": "03/02/2020 9:00 PM"
 	},
+
 ],
 "OrderProjectInfos": [
 	{
